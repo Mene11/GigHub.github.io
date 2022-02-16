@@ -544,8 +544,8 @@ url(images/team2.png);
         height:350px;
        margin-left:0px;
        margin-right:50px;
-       border-radius:250%;
-        display:block;
+       border-radius:400%;
+       
     }
 .info h2{
     width:100%;
