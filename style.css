@@ -541,10 +541,10 @@ url(images/team2.png);
 
 .team-col img{
         width:100%;
-        height:300px;
+        height:350px;
        margin-left:0px;
        margin-right:50px;
-       border-radius:200%;
+       border-radius:250%;
         display:block;
     }
 .info h2{
