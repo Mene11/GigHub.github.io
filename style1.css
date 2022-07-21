@@ -491,7 +491,7 @@ $grid-breakpoints: (
 );
 
 @include media-breakpoint-up(sm) {
-  .custom-class {
+  .container {
     display: block;
   }
 }
