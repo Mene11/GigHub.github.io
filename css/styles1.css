@@ -198,18 +198,19 @@ header.sticky{
 .col-md-4{
     padding:20px 12px;
     transition:ease .50s;
+    background:#fff;
     cursor:pointer;
     flex-basis:31%;
     box-sizing:border-box;
-    margin-bottom:5px;
+    margin-bottom:5%;
     border-radius:10px;
     
 }
 .col-md-4 img{
-    max-width:100%;
-    width:40px;
+    max-width:50%;
+    width:auto;
     height:auto;
-    margin-bottom:20px;
+    margin:10px 0;
 }
 .col-md-4 h3{
     margin-bottom:20px;
