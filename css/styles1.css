@@ -275,11 +275,12 @@ header.sticky{
 
 }
 .col-md-4-one{
+    flex-basis:32%;
+    border-radius:10px;
+    margin-bottom:30px;
     position:relative;
-    width:80%;
-    margin:auto;
-    text-align:center;
-    padding-top:50px;
+    over-flow:hidden;
+    
     
 }
 .col-md-4-one img{
