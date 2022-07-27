@@ -180,7 +180,6 @@ span{
     border-radius: 30px;
     transition:ease .40s;
     border:#000;
-
 }
 .btn:hover{
     transform:scale(1.1);
@@ -205,7 +204,7 @@ header.sticky{
 }
 .col-md-4{
     padding:20px 12px;
-    transition:ease .50s;
+    transition:.50s;
     background:#fff;
     cursor:pointer;
     flex-basis:31%;
@@ -276,9 +275,7 @@ header.sticky{
     border-radius:10px;
     margin-bottom:5%;
     text-align:left;
-    
-    
-}
+   }
 .col-md-4-one img{
     width:100%;
     border-radius:10px;
@@ -294,7 +291,6 @@ header.sticky{
     transition:0.5s;
 }
 .layer:hover{
-    background: linear-gradient(rgba(225, 222, 222, 0.5) 0%,#bbab13);
     opacity:1;
     bottom:49%;
 }
@@ -401,7 +397,7 @@ header.sticky{
 }
 .s.col-md-6:hover{
     will-change: transform;
-    transform: perspective(1000px) rotate(1.80deg) rotateY(1.23deg) scale3d(1.05,1.05,1.05);
+    
 }
 .k.col-md-6 h3{
     font-size:24px;
