@@ -513,6 +513,17 @@ header.sticky{
     font-size:var(--p-font);
     letter-spacing:1px;
 }
+@media(max-width:700px){
+    .center{
+        flex-direction:column;
+    }
+}
+
+@media(max-width:700px){
+    .action{
+        flex-direction:column;
+    }
+}
 
 
 
