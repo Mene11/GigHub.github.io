@@ -284,11 +284,7 @@ header.sticky{
     
 }
 .col-md-4-one img{
-    max-width: 200%;
-    width:550px;
-    height:auto;
-    object-fit:cover;
-    border-radius:30px;
+    width:100%;
 }
 .layer{
     background: transparent;
