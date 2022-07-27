@@ -342,10 +342,13 @@ header.sticky{
 }
 
 .row3{
-    width:80%;
-    margin:aut0;
-    padding-top:100px;
-    text-align:centre;
+    display:grid;
+    grid-gap:2rem;
+    align-items:center;
+    margin-top:5rem;
+    text-align: center;
+    cursor:pointer;
+    padding:20px 12px;
 }
 
 @media(max-width:700px){
