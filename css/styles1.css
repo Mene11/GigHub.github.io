@@ -191,10 +191,6 @@ header.sticky{
 
 .row1{
     display: flex;
-    grid-template-columns: repeat(auto-fit, minmax(220px, auto));
-    grid-gap:2rem;
-    align-items:center;
-    text-align:center;
     justify-content:space-between;
     margin-top:5%;
 
