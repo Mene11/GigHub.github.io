@@ -199,10 +199,14 @@ header.sticky{
 
 }
 .col-md-4{
-    padding:0px 0px;
+    padding:20px 12px;
     transition:ease .50s;
     cursor:pointer;
-    flex-basis:31%; 
+    flex-basis:31%;
+    box-sizing:border-box;
+    margin-bottom:5px;
+    border-radius:10px;
+    
 }
 .col-md-4 img{
     max-width:100%;
