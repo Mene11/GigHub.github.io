@@ -202,6 +202,7 @@ header.sticky{
     padding:0px 0px;
     transition:ease .50s;
     cursor:pointer;
+    flex-basis:31%; 
 }
 .col-md-4 img{
     max-width:100%;
@@ -222,10 +223,10 @@ header.sticky{
 }
 .col-md-4:hover{
     background:#fff;
-    box-shadow:18px 0px 87px 0px rgb(10 15 70 /7%);
+    box-shadow:0 0 20px 0px rgba(0,0,0,0.2);
     border-radius:12px;
     will-change: transform;
-    
+      
 }
 
 .text-center h2{
