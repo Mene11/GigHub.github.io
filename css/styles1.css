@@ -208,7 +208,7 @@ header.sticky{
 }
 .col-md-4 img{
     max-width:50%;
-    width:auto;
+    width:40px;
     height:auto;
     margin:10px 0;
 }
