@@ -265,7 +265,6 @@ header.sticky{
 
 .row2{
     display:grid;
-    grid-template-columns:repeat(auto-fit, minmax(350px,auto));
     grid-gap:2rem;
     align-items:center;
     margin-top:5rem;
