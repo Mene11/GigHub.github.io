@@ -102,7 +102,7 @@ header{
     display:grid;
     grid-template-columns:repeat(2, 1fr);
     align-items:center;
-    grid: gap 4rem;
+    grid: 4rem;
 }
 
 @media(max-width:700px){
