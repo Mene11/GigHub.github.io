@@ -354,6 +354,13 @@ header.sticky{
     
 }
 
+.s.col-md-6{
+    position:center;
+}
+.k.col-md-6{
+    position:center;
+}
+
 .s img{
     height:65px;
     width:65px;
