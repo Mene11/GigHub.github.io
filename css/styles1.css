@@ -274,10 +274,15 @@ header.sticky{
     padding:20px 12px;
 
 }
-.col-md-4{
+.col-md-4-one{
     position:relative;
+    width:80%;
+    margin:auto;
+    text-align:center;
+    padding-top:50px;
+    
 }
-.col-md-4 img{
+.col-md-4-one img{
     max-width: 200%;
     width:550px;
     height:auto;
