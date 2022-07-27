@@ -41,7 +41,7 @@ header{
     align-items: center;
     justify-content:space-between;
     background:#a09dab;
-    padding: 0px 10%;
+    padding: 0px 5px;
     transition:.3s;
 }
 .navbar-nav{
