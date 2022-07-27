@@ -190,12 +190,13 @@ header.sticky{
 
 
 .row1{
-    display: grid;
+    display: flex;
     grid-template-columns: repeat(auto-fit, minmax(220px, auto));
     grid-gap:2rem;
     align-items:center;
     text-align:center;
-    padding-left: 100px;
+    justify-content:space-between;
+    margin-top:5%;
 
 }
 .col-md-4{
