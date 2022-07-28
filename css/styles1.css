@@ -521,6 +521,10 @@ header.sticky{
         flex-direction:column;
         padding:10px;
     }
+    .mb-3{
+        flex-direction:column;
+        
+    }
 }
 
 
