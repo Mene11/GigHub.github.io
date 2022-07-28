@@ -510,7 +510,7 @@ header.sticky{
     letter-spacing:1px;
 }
 @media(max-width:700px){
-    .center{
+    .container5{
         flex-direction:column;
         text-position:center;
     }
