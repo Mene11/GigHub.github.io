@@ -523,6 +523,7 @@ header.sticky{
     }
     .mb-3{
         flex-direction:column;
+        padding:auto;
         
     }
 }
