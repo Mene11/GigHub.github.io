@@ -519,6 +519,7 @@ header.sticky{
 @media(max-width:700px){
     .action{
         flex-direction:column;
+        padding:10px;
     }
 }
 
