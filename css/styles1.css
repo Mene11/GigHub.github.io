@@ -512,6 +512,7 @@ header.sticky{
 @media(max-width:700px){
     .center{
         flex-direction:column;
+        text-position:center;
     }
 }
 
