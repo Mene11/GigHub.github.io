@@ -455,8 +455,8 @@ header.sticky{
 }
 .container5{
     max-width: 940px;
-    margin:0 auto;
-    padding:0;
+    margin:auto;
+    padding:0px;
 
 };
 .contact{
