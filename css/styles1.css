@@ -453,7 +453,12 @@ header.sticky{
 .col p{
     font-size:var(--p-font);
 }
+.container5{
+    max-width: 940px;
+    margin:0 auto;
+    padding:0;
 
+};
 .contact{
     background:#a09dab;
     width:64%;
